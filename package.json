@@ -4,7 +4,7 @@
   "description": "A template project for tasks and project using nodejs",
   "main": "index.js",
   "scripts": {
-    "test": "npm test",
+    "test": "jest test",
     "prettier": "prettier --write ."
   },
   "author": "Ming Li",
@@ -13,6 +13,7 @@
     "eslint": "^7.25.0",
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-prettier": "^3.4.0",
+    "jest": "^26.6.3",
     "prettier": "^2.2.1"
   }
 }
