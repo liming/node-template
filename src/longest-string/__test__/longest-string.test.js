@@ -2,7 +2,7 @@
  * Unit test for longest string
  */
 
-const { findLongestString } = require("../src/longest-string");
+const { findLongestString } = require("../longest-string");
 
 describe('Test Longest String', () => {
   it('Able to find longest string', (done) => {
