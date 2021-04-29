@@ -4,7 +4,7 @@
   "description": "A template project for tasks and project using nodejs",
   "main": "index.js",
   "scripts": {
-    "test": "jest test",
+    "test": "jest",
     "prettier": "prettier --write ."
   },
   "author": "Ming Li",
